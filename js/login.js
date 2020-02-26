@@ -31,6 +31,6 @@ const login = (userN, pwd)=>{
     }
 }
 
-login('tea2@.com', 'jjjj');
+//login('tea2@.com', 'jjjj');
 
 //console.log(db.Users);
